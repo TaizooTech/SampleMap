@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SampleMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Dialog -->
+    <string name="item_title_hint">アイテムの名前を入力</string>
+    <string name="item_snipet_hint">説明を入力</string>
+
+    <string-array name="spinner_image_names">
+        <item>treasure_box</item>
+        <item>key</item>
+        <item>sword</item>
+        <item>shield</item>
+    </string-array>
+
+    <string-array name="spinner_item_names">
+        <item>宝箱</item>
+        <item>鍵</item>
+        <item>剣</item>
+        <item>盾</item>
+    </string-array>
+
+</resources>
