@@ -20,4 +20,7 @@
         <item>盾</item>
     </string-array>
 
+    <string name="title_game">Game</string>
+    <string name="title_edit">Edit</string>
+
 </resources>
